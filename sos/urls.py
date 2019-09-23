@@ -1,5 +1,6 @@
 from django.urls import path
-from . import views
+from sos import views
+
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('', views.sos, name='sos'),
 ]
