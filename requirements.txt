@@ -1,0 +1,5 @@
+1. To test the site, create a python virtual environment and install django in it.
+2. Fork and clone the files to the py env folder on your desktop.
+3. Run "python manage.py runserver" (without the quote marks) in your py env terminal,
+copy the generated ip address, paste in the browser and add "/sos" to the address,
+(again, without the quote marks).
