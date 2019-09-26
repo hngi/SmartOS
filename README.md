@@ -1,5 +1,5 @@
 # SmartOS
-DevOps Task 3  by Team SmartOS
+DevOps Task 3 by Team SmartOS
 
 <h1> Team Members </h1>
 <ul> 
